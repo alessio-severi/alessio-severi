@@ -10,7 +10,7 @@ Working with Java, Python, C and C#, with additional experience in PHP. My main 
 - Logic-driven software projects
 - Desktop applications and technical tools
 - Algorithmic and data-processing solutions
-- Projects involving structured data, visualization, simulation, animation and problem solving
+- Projects involving structured data, static and dynamic visualization, simulation and problem solving
 
 ## Selected work
 - [Weather Station](https://github.com/alessio-severi/weather-station) — macOS desktop application for weather forecasts and conditions, with charts, unit conversion and 3D visualization
