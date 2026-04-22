@@ -4,7 +4,7 @@ Software developer focused on logic, algorithms, data structures and technical p
 
 I am the creator of [ChoraX](https://chorax.it/), a personal project where I publish software work and technical content centered on code, logic and computational thinking.
 
-Working with Java, Python, C and C#, with additional experience in PHP. My main interests include desktop software, algorithmic design, structured programming and projects with a strong logical core.
+Working with Java, Python, C and C#, with additional experience in PHP and MySQL. My main interests include desktop software, algorithmic design, structured programming and projects with a strong logical core.
 
 ## What I build
 - Logic-driven software projects
