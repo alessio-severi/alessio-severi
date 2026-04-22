@@ -13,7 +13,7 @@ Working with Java, Python, C and C#, with additional experience in PHP. My main 
 - Projects involving structured data, static and dynamic visualization, simulation and problem solving
 
 ## Selected work
-- [Weather Station](https://github.com/alessio-severi/weather-station) — macOS desktop application for weather forecasts and conditions, with charts, unit conversion and 3D visualization
+- [Weather Station](https://github.com/alessio-severi/weather-station) — macOS desktop application for weather forecasts and conditions, with charts, unit conversion and a dynamic 3D view
 - More projects and technical articles: [chorax.it/codice-e-creativita](https://chorax.it/codice-e-creativita/)
 - GitHub repositories: [github.com/alessio-severi?tab=repositories](https://github.com/alessio-severi?tab=repositories)
 
