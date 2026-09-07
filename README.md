@@ -14,6 +14,7 @@ Working with Java, Python, C and C#, with additional experience in PHP and MySQL
 
 ## Selected work
 - [Weather Station](https://github.com/alessio-severi/weather-station) — macOS desktop application for weather forecasts and conditions, with charts, unit conversion and a dynamic 3D view
+- [Push Swap](https://github.com/alessio-severi/push_swap) - Two-stack sorting program (push_swap) in C — four strategies (O(n²), O(n√n), O(n log n), adaptive)
 - More projects and technical articles: [chorax.it/codice-e-creativita](https://chorax.it/codice-e-creativita/)
 - GitHub repositories: [github.com/alessio-severi?tab=repositories](https://github.com/alessio-severi?tab=repositories)
 
